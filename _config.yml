@@ -1,5 +1,6 @@
 title: Agree Press
-#logo: assets/img/logo_black.png
+#logo: assets/img/logo_bw.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
+is_project_page: false
